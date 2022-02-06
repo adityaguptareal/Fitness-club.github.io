@@ -1,6 +1,6 @@
 # Fitness-club.github.io
 A Gym website page for website development practise.<br>
-<a href="https://adityaguptareal.github.io/Fitness-club.github.io/">Visit Website</a> - Final websiteresult<br>
+<a href="https://adityaguptareal.github.io/Fitness-club.github.io/">Visit Website</a> - Final website result<br>
 # Created by Using
 HTML<br>
 CSS<br>
